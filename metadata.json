@@ -1,0 +1,6 @@
+{
+  "name": "ATS Resume Checker",
+  "description": "A premium, Apple-inspired ATS Resume Checker web app that analyzes your resume against any job description using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
